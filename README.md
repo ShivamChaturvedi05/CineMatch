@@ -68,7 +68,7 @@ python preprocess.py
 3️⃣ **Run the App**
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 4️⃣ **Visit in Browser**
